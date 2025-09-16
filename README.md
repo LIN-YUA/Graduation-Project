@@ -4,3 +4,4 @@
 系統展示影片:https://youtu.be/cprbZcsv_Mo
 
 <img width="476" height="367" alt="Image" src="https://github.com/user-attachments/assets/bae93027-4b97-47f8-89cc-196ee1aafcf3" />
+<img width="476" height="388" alt="Image" src="https://github.com/user-attachments/assets/f99b4508-af1c-40b2-a5c6-b5f2434c7ada" />
