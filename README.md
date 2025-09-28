@@ -9,5 +9,6 @@
 <img width="476" height="388" alt="Image" src="https://github.com/user-attachments/assets/f99b4508-af1c-40b2-a5c6-b5f2434c7ada" />
 <figure>
   <img width="768" height="76" alt="Image" src="https://github.com/user-attachments/assets/381aa049-63dc-40ec-adfa-5c4ea51cf5cb" />
-  <figcaption>   圖1.系統架構圖</figcaption>
+  <figcaption>   
+    圖1.系統架構圖</figcaption>
 </figure>
